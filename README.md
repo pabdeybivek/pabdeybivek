@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning with Google and ChatGPT.
 - 💞️ I’m looking to collaborate with QA.
 - 💬 Ask me about Manual and Automation Testing.
-- 📫 How to reach me .. By my LinkedIn [Profile]([https://www.linkedin.com/in/vivek-pandey-50b991236/](https://www.linkedin.com/in/vivek-pandey-50b991236/).
+- 📫 How to reach me .. By my LinkedIn [Profile]([https://www.linkedin.com/in/vivek-pandey-50b991236/](https://www.linkedin.com/in/vivek-pandey-50b991236/]).
 
 ___
 
