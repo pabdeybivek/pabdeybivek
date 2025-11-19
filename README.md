@@ -7,7 +7,6 @@
 </p>
 
 - 👋 Hi, I’m [pabdeybivek](https://github.com/pabdeybivek/)
-- 👀 I’m a Computer Geek.
 - 🌱 I’m currently learning with Google and ChatGPT.
 - 💞️ I’m looking to collaborate with QA.
 - 💬 Ask me about Manual and Automation Testing.
